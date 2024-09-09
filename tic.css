@@ -4,6 +4,8 @@
     height:75px;
     border: 2px solid black;
     cursor: pointer;
+    text-align: center;
+    font-size: 50px;
 }
 
 #cellContainer{
